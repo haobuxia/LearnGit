@@ -1,0 +1,3 @@
+spring-shiro-train中的面向切面编程在
+src\main\java\com\wangzhixuan\commons\scan
+中.里面全是面向切面的编程,有错误的还有日志的面向切面编程
